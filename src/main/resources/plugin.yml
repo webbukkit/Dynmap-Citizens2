@@ -1,0 +1,6 @@
+name: Dynmap-Citizens2
+main: us.dynmap.citizens2.DynmapCitizens2Plugin
+version: "${project.version}"
+author: mikeprimm
+depend: [ dynmap, Citizens ]
+
